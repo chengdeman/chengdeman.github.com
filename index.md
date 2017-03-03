@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 花间一壶酒，独酌无相亲
 
-You can use the [editor on GitHub](https://github.com/chengdeman/chengdeman.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+技术是孤独的，也是枯燥的。记录一些自己处理过的问题。来对自己的知识进行梳理和整理。编写自己的独孤九剑。
 
 ### Markdown
 
