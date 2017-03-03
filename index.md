@@ -1,18 +1,33 @@
 ## 花间一壶酒，独酌无相亲
 
 
-技术是孤独的，也是枯燥的。记录一些自己处理过的问题。来对自己的知识进行梳理和整理。编写自己的独孤九剑。
+技术是孤独的，也是枯燥的。记录一些自己处理过的问题。来对自己的知识进行梳理和整理。磨练自己的独孤九剑。
 
-### Markdown
+## java
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+主要编程语言是java
 
-```markdown
-Syntax highlighted code block
+### jdk , jvm ，tomcat
 
-# Header 1
-## Header 2
-### Header 3
+基于jdk,jvm类的java开发基类及运行环境的一些整理
+
+### spring , springBoot ,springMVC , MyBaties , Hibernate 
+
+一些开源的基础框架知识整理
+
+### mysql , oracle , redis , memcache , MongoDB , hive , hbase
+
+一些数据库知识整理
+
+### advert ， lucene , solr , hadoop , spark , storm 
+
+一些广告计算，搜索，大数据等技术整理
+
+
+### Linux , docker , jmap 
+
+一些运维知识整理
+
 
 - Bulleted
 - List
