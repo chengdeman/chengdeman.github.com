@@ -46,10 +46,11 @@
 
 一些数据库知识整理
 
-- 关于mysql，oracle我之见解(https://chengdeman.github.io)
-1. 关于mysql我之见解(https://chengdeman.github.io)
-2. 关于oracle我之见解(https://chengdeman.github.io)
-3. 关于sql语句及优化我之见解(https://chengdeman.github.io)
+- 关于mysql，oracle我之见解
+1.关于mysql我之见解
+2.关于oracle我之见解
+3.关于sql语句及优化我之见解
+
 
 - 关于redis，memcache，MongoDB，hive，hbase我之见解
 1. 关于redis我之见解(https://chengdeman.github.io)
